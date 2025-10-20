@@ -27,7 +27,7 @@ Currently, I’m diving deep into <b>Python</b>, <b>electronics</b>, and <b>AI/M
 ---
 
 ### 🛠️ Tech Stack
-`Python` · `C` · `HTML` · `CSS` · `JavaScript` · `Flask` · `Git` · `Linux`
+`Python` · `C` · `HTML` · `CSS` · 
 
 ---
 
